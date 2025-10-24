@@ -1,5 +1,11 @@
 package store.item;
 
+/**
+ * Purpose: An abstract class defining the structure of household items
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public abstract class HouseholdItem extends StoreItem {
 
     /**

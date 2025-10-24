@@ -2,6 +2,12 @@ package store.item.household;
 
 import store.item.HouseholdItem;
 
+/**
+ * Purpose: A class representation of cleaning supplies
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public class CleaningSupply extends HouseholdItem {
 
 

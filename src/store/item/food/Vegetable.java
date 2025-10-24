@@ -2,6 +2,12 @@ package store.item.food;
 
 import store.item.FoodItem;
 
+/**
+ * Purpose: A class representation of a vegetable
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public class Vegetable extends FoodItem {
 
 

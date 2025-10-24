@@ -1,5 +1,11 @@
 package store.item;
 
+/**
+ * Purpose: An abstract class defining the structure of clothing objects
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public abstract class ClothingItem extends StoreItem {
 
     private String size;

@@ -2,6 +2,12 @@ package store.item.household;
 
 import store.item.HouseholdItem;
 
+/**
+ * Purpose: A class representation of furniture
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public class Furniture extends HouseholdItem {
 
     private String model;

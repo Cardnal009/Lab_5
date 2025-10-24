@@ -2,6 +2,13 @@ package store.item.electronics;
 
 import store.item.ElectronicItem;
 
+/**
+ * Purpose: A class representation of a TV
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
+
 public class TV extends ElectronicItem {
 
     /**

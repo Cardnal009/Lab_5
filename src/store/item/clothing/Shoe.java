@@ -2,6 +2,13 @@ package store.item.clothing;
 
 import store.item.ClothingItem;
 
+/**
+ * Purpose: A class representation of a Shoe
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
+
 public class Shoe extends ClothingItem {
 
     private String shoeType;

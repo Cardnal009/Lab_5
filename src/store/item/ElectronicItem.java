@@ -1,5 +1,12 @@
 package store.item;
 
+
+/**
+ * Purpose: An abstract class defining the structure of electronic items
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public abstract class ElectronicItem extends StoreItem {
 
     private boolean requiresBatteries;

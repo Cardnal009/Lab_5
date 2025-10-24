@@ -16,7 +16,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-
+/**
+ * Purpose: populate, sell, and update inventory of a store containing StoreItems
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
 public class WQSCainPhamParnellOathout {
 
     private static final double FOOD_TAX_RATE = 1.0675; // food tax rate

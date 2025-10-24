@@ -2,6 +2,13 @@ package store.item.clothing;
 
 import store.item.ClothingItem;
 
+/**
+ * Purpose: A class represenation of outerwear
+ * @author Travis, Ricky, Brayden, Jasper
+ * 10/23/25
+ * section 331-001
+ */
+
 public class Outerwear extends ClothingItem {
 
 
